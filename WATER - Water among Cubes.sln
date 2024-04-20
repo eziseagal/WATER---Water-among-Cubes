@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WATER - Water among Cubes", "WATER - Water among Cubes\WATER - Water among Cubes.csproj", "{61E4FA3F-6AA0-460D-8294-8C533A1A501C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E4FA3F-6AA0-460D-8294-8C533A1A501C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E4FA3F-6AA0-460D-8294-8C533A1A501C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E4FA3F-6AA0-460D-8294-8C533A1A501C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E4FA3F-6AA0-460D-8294-8C533A1A501C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC54C3A9-16AA-45BF-8E90-7AF737281A93}
+	EndGlobalSection
+EndGlobal
